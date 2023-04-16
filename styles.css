@@ -1,0 +1,73 @@
+/* For index page */
+#header {
+    background-color: rgb(228, 111, 111);
+
+}
+.title {
+    background-color: coral;
+
+}
+/*For tasty beans page*/
+.beans {
+    background-color: rgb(248, 62, 62);
+    text-align: center;
+}
+.bean_ing {
+    background-color: aqua;
+    text-align: center;
+}
+.bean_steps {
+    background-color:  rgb(243, 178, 59);
+    text-align: center;
+}
+.bean_img {
+    text-align: center;
+}
+.goto_bean {
+    background-color: blueviolet
+}
+/*For Spag page*/
+#spag {
+    background-color: rgb(248, 62, 62);
+    text-align: center;
+}
+.spag_ing {
+    background-color: aqua;
+    text-align: center;
+}
+.spag_steps {
+    background-color:  rgb(243, 178, 59);
+    text-align: center;
+}
+.spag_img {
+    text-align: center;
+}
+.goto_spag {
+    background-color: blueviolet
+}
+/*For Jollof rice page*/
+.jollof {
+    background-color: rgb(248, 62, 62);
+    text-align: center;
+}
+.jollof_ing {
+    background-color: aqua;
+    text-align: center;
+}
+.jollof_steps {
+    background-color:  rgb(243, 178, 59);
+    text-align: center;
+}
+#jollof_img {
+    text-align: center;
+}
+.goto_jollof {
+    background-color: blueviolet
+}
+
+
+
+
+
+
+
